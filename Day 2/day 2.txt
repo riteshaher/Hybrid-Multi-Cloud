@@ -1,0 +1,13 @@
+-Public Cloud Computing
+
+-Tenant = user /client
+	(Virtualization)
+
+
+
+
+			Program
+
+
+
+		Storge         Run/Excute
